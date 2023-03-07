@@ -1,6 +1,6 @@
-import { Book } from "../models/Book";
 
-const bookList = [
+
+const booksList = [
     {
       "author": "Margaret Atwood",
       "title": "The Handmaid's Tale",
@@ -219,7 +219,7 @@ const bookList = [
   ];
 
 
-export default bookList;
+export default booksList;
 
   
   
